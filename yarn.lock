@@ -1798,7 +1798,7 @@ base@^0.11.1:
     mixin-deep "^1.2.0"
     pascalcase "^0.1.1"
 
-bcryptjs@^5.0.1:
+bcryptjs@^2.4.3:
   version "2.4.3"
   resolved "https://art.api.progleasing.com:443/artifactory/api/npm/npm-virtual/bcryptjs/-/bcryptjs-2.4.3.tgz#9ab5627b93e60621ff7cdac5da9733027df1d0cb"
   integrity sha1-mrVie5PmBiH/fNrF2pczAn3x0Ms=
