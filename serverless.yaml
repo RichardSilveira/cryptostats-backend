@@ -17,8 +17,11 @@ functions:
     handler: dist/serverless.handler
     events:
       - http:
-          method: ANY
-          path: /
+          method: get
+          path: /app
       - http:
-          method: ANY
-          path: '{proxy+}'
+          method: get
+          path: /users
+      - http:
+          method: post
+          path: /users
